@@ -6,7 +6,6 @@ def texto_bienvenida():
 def suma_numeros():
     pass
 
-# si no invoco la funcion no se ejecuta
+# Si no invoco la funcion no se ejecuta
 texto_bienvenida()
 suma_numeros()
-# si no invoco la funcion no se ejecuta 
